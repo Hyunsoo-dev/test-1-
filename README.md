@@ -73,4 +73,8 @@ pull vs fetch
 [이지스 퍼블리싱](http://www.easypub.co.kr, "교육 사이트")
 
 
+
+
 ![이미지 연습](http://kyrieko.dothome.co.kr/images/first.jpg)
+
+![연습 사진](./images/연습사진.jpg.jpg)
